@@ -10,5 +10,4 @@ Welcome to my Data Science Portfolio! This repository showcases my academic back
 - **Data Analysis**: Skilled in using tools like Microsoft Excel and Google Sheets for data processing and visualization.
 - **Machine Learning**: Knowledgeable in machine learning techniques and algorithms, including regression, classification, clustering, and deep learning.
 - **Statistical Modeling**: Experience in statistical modeling, hypothesis testing, and predictive analytics.
-- **Database Management**: Familiar with SQL for querying and processing data from complex relational databases.
 - **Communication**: Strong communication and interpersonal skills, with a track record of effectively presenting insights and recommendations to stakeholders.
